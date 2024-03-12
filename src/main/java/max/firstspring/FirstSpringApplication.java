@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 // This is the spring app launcher
 // First Spring Demo Project
 @SpringBootApplication
-public class FirstSpringApplication {
+public class  FirstSpringApplication {
 
 	public static void main(String[] args) {
 
